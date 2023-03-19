@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "datatec-fefe2",
+  "private_key_id": "305d061e894b5653efa0e29e2d833c70eb2de144",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEwQgf18nlaSGp\nsvRh41ibKA3uUcdm1EeiuD+9DWybb2af9K7B3KvhNlCeaHWiQOwvBIpW2FsgpH2I\nP4buh4ikVU5fTDOypRf+Fxn3gwwDn2ncSYmmK6kx9UklEGhy9sFp1KZvMAUaeJSg\n0ZHIDDMskwBIvS4GqldXusvbv0Q63aRnfhipNF+tSZ02A+TkdZgbrui1u3DLNlqJ\n5SIuUtUbW30CdV8A+IpSv2d87kdFoNJPxGMAwM2m2lCi92/B9Gv/iPbiRG28CbQ3\nxKAuu+0Syz6JIhxVs2kz5rebzB6YnwzXMaYNloGpJ369/tRyWQtMAM57DYTzWhCS\n20To6c15AgMBAAECggEAALXIiXKu/+2vB75IuPUE0Z8iXFZA+IDpLWAJ6EA8+iG7\nxPWRYmUUagY9e8usd5x30oxRhZjEQAdIv5ko5WHWZBWkCDHEFeYk4qXzPuqP1h0C\nv3i0xZiusWqW7zc8K0SmKmaJ/1V7TtVf0vJ14Sff6oGkaWUxl8GD+ghaoNiTpSM8\neEXAts8vuE6zWbCrrJE9b+xi2tJIIKNGQw7Ga7JUuc6gXWxVe4ooi8Sw1RwAZz+y\ndw1GQl8uzCQifcRxYwXTvmfsAVOsZH+JtvRySksLckfEBOE8o4bitSAA99P3HLz7\nq7UVLy8gjBmz7o3S3Z7ITsSwxuBFAuPdXUWZRs4MYQKBgQDvtO1lCN0SwlbLxQ96\nahv3780IpXTa6BhkeeT7iGIo9dx4uJi8I0AyFQ9eRjoQwvRyGaEQ8V04oIdpeYpm\noMOJm8817vSPbdGBQFsoi1lnH0ZU9gcBp82S7E8Sp1WMKNnTOhw6PRw91Gk+flf4\n14HFlG30K+rCBPpe43JNmd3TWQKBgQDSILIbOFPp3QuYYpBke+d8+x/xpLS27nPR\nY/oc/e6zMc4qd+qlcCuTOf64mz5ONpWhuJke+lGs+PntP2ob3TtrUtnqBspJbwIm\nQbrBmaj+qLCBFGlrFQSsaKVDIZ1beiOKh1oawY5V4FL01E4Ox2h96qlzqJFc7/gc\nChiF4DcnIQKBgFnqDQ5UB9EMktA2p/qsKLeU/Nzca3vdiaDO1GTBoMhqiPvDio8v\nzdm7aptbTlaROm4+TNt1HhmqpYCb9Z1Peml4x34clyHh+K85+7e2pZ937MLb0n79\nebA98d82Y3GCtUp1RrdVyu0qaxvk+oy+EdCSP7hSbOnAQkYrnOmc6MdpAoGAbU9+\n9/QUiytntc1Iik1+viCxnHZvYF6pt3sICP78pxG4y5T4Zzn0ITHhVc3E2tFAhBHQ\n7jGQPaiD86yymW48U/eUz07a+tqZxqcY7U/vfxLoRy4ELSWQ+dOybTrWblkalh0V\nfafFUN1SqnSrarrHnAFwR2+gtzVK3+NMoJBkgKECgYEArUCTjHBaUczQWE1fNJIf\nOrCsuaoMupLlC9ZV54ny01e+5cxcFJUKdtv9NLYpxwyLVbPqtkW/nJ7HJBr5y8QU\nuwE97e5PMFh9uqhuCUFkguG80Iosg4zRb1ztv7P7wM4qshugisS/B+pYkA4GZRyt\nA0utC6re44xJyYb+XGA1bWM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ox7sl@datatec-fefe2.iam.gserviceaccount.com",
+  "client_id": "116983270470674580605",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ox7sl%40datatec-fefe2.iam.gserviceaccount.com"
+}
